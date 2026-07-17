@@ -27,6 +27,52 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
 
 ---
 
+## Coding Profiles
+
+<table>
+  <tr>
+    <th align="left">Platform</th>
+    <th align="left">Profile</th>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="18"/> LeetCode
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/varun_2327/">varun_2327</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="18"/> GeeksforGeeks
+    </td>
+    <td>
+      <a href="https://www.geeksforgeeks.org/profile/varun2327/">varun2327</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      🟠 Code360
+    </td>
+    <td>
+      <a href="https://www.naukri.com/code360/profile/thevarun">thevarun</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      🟣 Codolio
+    </td>
+    <td>
+      <a href="https://codolio.com/profile/varun123">varun123</a>
+    </td>
+  </tr>
+
+</table>
+
 ## Technical Skills
 
 **Languages**
