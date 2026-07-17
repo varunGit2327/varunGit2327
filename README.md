@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**varunGit2327/varunGit2327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Varun Kumar
 
-Here are some ideas to get you started:
+### Java Developer • Full Stack Learner • DSA Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Developer;DSA+Enthusiast;Open+to+Internship+Opportunities" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student at Galgotias University
+- 💻 Java Developer
+- 🌱 Currently Learning Spring Boot & React
+- 🧠 Solving DSA Problems
+- 🚀 Building Real-World Projects
+- 🎯 Open to Internship Opportunities
