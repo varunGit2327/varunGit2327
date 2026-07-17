@@ -60,7 +60,7 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
   <tr>
     <td>
       <img src="https://tse4.mm.bing.net/th/id/OIP.a4XK-o8XC_ixGs1h2cVHpAHaHZ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
-           width="26"
+           width="24"
            alt="Code360"/>
       Code360
     </td>
@@ -73,7 +73,7 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
 
   <tr>
     <td>
-      <img src="https://d3hr337ydpgtsa.cloudfront.net/assets/Banner.png"
+      <img src="https://images.sftcdn.net/images/t_app-icon-m/p/6b211da4-a749-455a-bff4-af07dfb22b1c/161517429/codolio-logo"
            height="24"
            alt="Codolio"/>
       Codolio
