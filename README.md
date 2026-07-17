@@ -1,14 +1,28 @@
-<h1 align="center">Varun Kumar</h1>
-<p align="center">B.Tech CSE Student | Java Developer | Building Real-World Applications</p>
+<div align="center">
+  
+# Varun Kumar
+
+**Aspiring Software Engineer · B.Tech Computer Science & Engineering**
+</div>
+
 <p align="center">
-  <a href="mailto:varunkvdmv12@gmail.com"><img src="https://www.svgrepo.com/show/349378/gmail.svg" width="22" /></a>
-  <a href="https://www.linkedin.com/in/varunkumar257/"><img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="22" /></a>
-  <a href="https://leetcode.com/u/varun_2327/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22" /></a>
+  <a href="mailto:varunkvdmv12@gmail.com">
+    <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="22" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/varunkumar257/">
+    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="22" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/varun_2327/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22" />
+  </a>
 </p>
 
 ---
 
 ## About
+
 B.Tech CSE student building real-world projects, sharpening problem-solving skills through DSA, and continuously learning to become an industry-ready software developer.
 
 ---
@@ -16,38 +30,76 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
 ## Technical Skills
 
 **Languages**
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 </p>
 
 **Frontend & Backend**
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
 </p>
 
 **Tools & Platforms**
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" />
 </p>
 
 ---
 
 ## Contact
 
-| Channel | Details |
-|---|---|
-| <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="20"/> Email | [varunkvdmv12@gmail.com](mailto:varunkvdmv12@gmail.com) |
-| <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="20"/> LinkedIn | [linkedin.com/in/varunkumar257](https://www.linkedin.com/in/varunkumar257/) |
-| <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20"/> LeetCode | [leetcode.com/u/varun_2327](https://leetcode.com/u/varun_2327/) |
+<table>
+  <tr>
+    <th align="left">Channel</th>
+    <th align="left">Details</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="18"/> Email
+    </td>
+    <td>
+      <a href="mailto:varunkvdmv12@gmail.com">
+        varunkvdmv12@gmail.com
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="18"/> LinkedIn
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/varunkumar257/">
+        linkedin.com/in/varunkumar257
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="18"/> LeetCode
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/varun_2327/">
+        leetcode.com/u/varun_2327
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center"><i>B.Tech Computer Science · Open to Internship Opportunities</i></p>
+<div align="center">
+<sub>B.Tech Computer Science & Engineering · Java · DSA · Full Stack Development · Open to Internship Opportunities</sub>
+</div>
