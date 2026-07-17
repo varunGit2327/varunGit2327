@@ -1,9 +1,9 @@
 <h1 align="center">Varun Kumar</h1>
 <p align="center">B.Tech CSE Student | Java Developer | Building Real-World Applications</p>
 <p align="center">
-  <a href="mailto:varunkvdmv12@gmail.com"><img src="https://www.svgrepo.com/show/349378/gmail.svg" width="20" /></a>
-  <a href="https://www.linkedin.com/in/varunkumar257/"><img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="20" /></a>
-  <a href="https://leetcode.com/u/varun_2327/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20" /></a>
+  <a href="mailto:varunkvdmv12@gmail.com"><img src="https://www.svgrepo.com/show/349378/gmail.svg" width="22" /></a>
+  <a href="https://www.linkedin.com/in/varunkumar257/"><img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="22" /></a>
+  <a href="https://leetcode.com/u/varun_2327/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22" /></a>
 </p>
 
 ---
