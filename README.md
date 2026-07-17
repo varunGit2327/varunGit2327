@@ -27,7 +27,7 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
 
 ---
 
-## 🏆 Coding Profiles
+## Coding Profiles
 
 <table>
   <tr>
@@ -64,7 +64,7 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
 
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Codolio-4F46E5?style=flat-square" height="18"/> Codolio
+      <img src="https://d3hr337ydpgtsa.cloudfront.net/assets/Banner.png" height="18"/> Codolio
     </td>
     <td>
       <a href="https://codolio.com/profile/varun123">varun123</a>
@@ -147,5 +147,5 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
 ---
 
 <div align="center">
-<sub>B.Tech Computer Science & Engineering · Java · DSA · Full Stack Development · Open to Internship Opportunities</sub>
+<sub>B.Tech Computer Science & Engineering · Java · DSA · Full Stack Development</sub>
 </div>
