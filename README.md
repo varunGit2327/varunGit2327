@@ -46,7 +46,7 @@ B.Tech CSE student learning and improving my problem-solving skills through real
 |---|---|
 | <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="20"/> Email | [varunkvdmv12@gmail.com](mailto:varunkvdmv12@gmail.com) |
 | <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="20"/> LinkedIn | [linkedin.com/in/varunkumar257](https://www.linkedin.com/in/varunkumar257/) |
-| <img src="https://img.shields.io/badge/-leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=black" width="20"/> LeetCode | [leetcode.com/u/varun_2327](https://leetcode.com/u/varun_2327/) |
+| <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20"/> LeetCode | [leetcode.com/u/varun_2327](https://leetcode.com/u/varun_2327/) |
 
 ---
 
