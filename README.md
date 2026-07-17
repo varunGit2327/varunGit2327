@@ -37,7 +37,7 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
 
   <tr>
     <td>
-      <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="18"/> LeetCode
+      <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20"/> LeetCode
     </td>
     <td>
       <a href="https://leetcode.com/u/varun_2327/">varun_2327</a>
@@ -46,7 +46,7 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
 
   <tr>
     <td>
-      <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="18"/> GeeksforGeeks
+      <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="20"/> GeeksforGeeks
     </td>
     <td>
       <a href="https://www.geeksforgeeks.org/profile/varun2327/">varun2327</a>
@@ -55,7 +55,7 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
 
   <tr>
     <td>
-      <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" width="18"/> Code360
+      <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" width="20"/> Code360
     </td>
     <td>
       <a href="https://www.naukri.com/code360/profile/thevarun">thevarun</a>
@@ -64,7 +64,7 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
 
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Codolio-4F46E5?style=flat-square" height="18"/> Codolio
+      <img src="https://img.shields.io/badge/Codolio-4F46E5?style=flat-square" height="20"/> Codolio
     </td>
     <td>
       <a href="https://codolio.com/profile/varun123">varun123</a>
