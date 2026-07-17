@@ -100,5 +100,5 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
 ---
 
 <div align="center">
-<sub>B.Tech Computer Science & Engineering · Java · DSA · Full Stack Development · Open to Internship Opportunities</sub>
+<sub>B.Tech Computer Science & Engineering · Java · DSA · Full Stack Development</sub>
 </div>
