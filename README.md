@@ -27,51 +27,55 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
 
 ---
 
-## Coding Profiles
+<tr>
+  <td>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="18"/> LeetCode
+  </td>
+  <td>
+    <a href="https://leetcode.com/u/varun_2327/">
+      https://leetcode.com/u/varun_2327/
+    </a>
+  </td>
+</tr>
 
-<table>
-  <tr>
-    <th align="left">Platform</th>
-    <th align="left">Profile</th>
-  </tr>
+<tr>
+  <td>
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="18"/> GeeksforGeeks
+  </td>
+  <td>
+    <a href="https://www.geeksforgeeks.org/profile/varun2327/">
+      https://www.geeksforgeeks.org/profile/varun2327/
+    </a>
+  </td>
+</tr>
 
-  <tr>
-    <td>
-      <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20"/> LeetCode
-    </td>
-    <td>
-      <a href="https://leetcode.com/u/varun_2327/">varun_2327</a>
-    </td>
-  </tr>
+<tr>
+  <td>
+    <img src="https://tse4.mm.bing.net/th/id/OIP.a4XK-o8XC_ixGs1h2cVHpAHaHZ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+         width="24"
+         style="vertical-align:middle;"/>
+    Code360
+  </td>
+  <td>
+    <a href="https://www.naukri.com/code360/profile/thevarun">
+      https://www.naukri.com/code360/profile/thevarun
+    </a>
+  </td>
+</tr>
 
-  <tr>
-    <td>
-      <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="20"/> GeeksforGeeks
-    </td>
-    <td>
-      <a href="https://www.geeksforgeeks.org/profile/varun2327/">varun2327</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" width="24"/> Code360
-    </td>
-    <td>
-      <a href="https://www.naukri.com/code360/profile/thevarun">thevarun</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img src="https://d3hr337ydpgtsa.cloudfront.net/assets/Banner.png" height="18"/> Codolio
-    </td>
-    <td>
-      <a href="https://codolio.com/profile/varun123">varun123</a>
-    </td>
-  </tr>
-
-</table>
+<tr>
+  <td>
+    <img src="https://d3hr337ydpgtsa.cloudfront.net/assets/Banner.png"
+         height="24"
+         style="vertical-align:middle;"/>
+    Codolio
+  </td>
+  <td>
+    <a href="https://codolio.com/profile/varun123">
+      https://codolio.com/profile/varun123
+    </a>
+  </td>
+</tr>
 
 ## Technical Skills
 
@@ -83,7 +87,6 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 </p>
 
 **Frontend & Backend**
@@ -91,7 +94,7 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
 <p>
   <img src="https://skillicons.dev/icons?i=react" title="React" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 </p>
 
 **Tools & Platforms**
