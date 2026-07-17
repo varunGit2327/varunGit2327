@@ -44,8 +44,8 @@ B.Tech CSE student learning and improving my problem-solving skills through real
 
 | Channel | Details |
 |---|---|
-| <img src="https://img.shields.io/badge/-gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" width="20"/> Email | [varunkvdmv12@gmail.com](mailto:varunkvdmv12@gmail.com) |
-| <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" width="20"/> LinkedIn | [linkedin.com/in/varunkumar257](https://www.linkedin.com/in/varunkumar257/) |
+| <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="20"/> Email | [varunkvdmv12@gmail.com](mailto:varunkvdmv12@gmail.com) |
+| <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="20"/> LinkedIn | [linkedin.com/in/varunkumar257](https://www.linkedin.com/in/varunkumar257/) |
 | <img src="https://img.shields.io/badge/-leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=black" width="20"/> LeetCode | [leetcode.com/u/varun_2327](https://leetcode.com/u/varun_2327/) |
 
 ---
