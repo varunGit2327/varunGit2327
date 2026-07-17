@@ -1,15 +1,15 @@
 <h1 align="center">Varun Kumar</h1>
-<p align="center">Software Development Intern Candidate · B.Tech Computer Science</p>
+<p align="center">B.Tech CSE Student | Java Developer | Building Real-World Applications</p>
 <p align="center">
-  <a href="mailto:varunkvdmv12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/varunkumar257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/varun_2327/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:varunkvdmv12@gmail.com"><img src="https://www.svgrepo.com/show/349378/gmail.svg" width="20" /></a>
+  <a href="https://www.linkedin.com/in/varunkumar257/"><img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="20" /></a>
+  <a href="https://leetcode.com/u/varun_2327/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20" /></a>
 </p>
 
 ---
 
 ## About
-B.Tech CSE student learning and improving my problem-solving skills through real-world projects. Actively building projects, practicing DSA, and working towards becoming internship-ready.
+B.Tech CSE student building real-world projects, sharpening problem-solving skills through DSA, and continuously learning to become an industry-ready software developer.
 
 ---
 
