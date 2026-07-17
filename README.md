@@ -86,15 +86,6 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="18"/> LeetCode
-    </td>
-    <td>
-      <a href="https://leetcode.com/u/varun_2327/">
-        leetcode.com/u/varun_2327
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
