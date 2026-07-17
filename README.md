@@ -32,12 +32,11 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
 </p>
 
 **Frontend & Backend**
@@ -45,7 +44,7 @@ B.Tech CSE student building real-world projects, sharpening problem-solving skil
 <p>
   <img src="https://skillicons.dev/icons?i=react" title="React" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 </p>
 
 **Tools & Platforms**
